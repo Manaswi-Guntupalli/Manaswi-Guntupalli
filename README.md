@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi👋, This is Manaswi Guntupalli
+<br>
+## About Me !
+<br>
+Pursuing **Computer Science and Engineering** at **PES University** 
+<br>
+Deeply interested in the fields of **Artificial Intelligence** and **Machine Learning**
+<br>
+Passionate **Blockchain enthusiast**, exploring the intersection of decentralized systems and emerging technologies
+<br>
+Constantly learning, building, and innovating at the intersection of technology and real-world impact 
 
 <!--
 **Manaswi-Guntupalli/Manaswi-Guntupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
