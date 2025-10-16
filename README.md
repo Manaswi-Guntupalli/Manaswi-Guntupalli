@@ -2,11 +2,11 @@
 <br>
 ## About Me !
 <br>
-Pursuing **Computer Science and Engineering** at **PES University** 
+Pursuing <b>Computer Science and Engineering</b> at <b>PES University</b>
 <br>
-Deeply interested in the fields of **Artificial Intelligence** and **Machine Learning**
+Deeply interested in the fields of <b>Artificial Intelligence</b> and <b>Machine Learning</b>
 <br>
-Passionate **Blockchain enthusiast**, exploring the intersection of decentralized systems and emerging technologies
+Passionate <b>Blockchain enthusiast</b>, exploring the intersection of decentralized systems and emerging technologies
 <br>
 Constantly learning, building, and innovating at the intersection of technology and real-world impact 
 
