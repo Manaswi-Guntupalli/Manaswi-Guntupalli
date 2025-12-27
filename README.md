@@ -23,7 +23,7 @@
 <h2>Projects</h2>
 • https://github.com/Manaswi-Guntupalli/ImpactEcho---Hackoween - Verified Donation Tracker for Social Causes
 <br>
-• https://github.com/Manaswi-Guntupalli/ImpactMatch - a gamified, AI powered platform that makes doing good as easy as swiping right and uses Blockchain to verify every act of kindness is verified, transparent and permanent.
+• https://github.com/Manaswi-Guntupalli/ImpactMatch - a gamified, AI powered platform that makes doing good as easy as swiping right and uses Blockchain to verify every act of kindness is verified, transparent and permanent
 
 <h2>Learning Goals</h2>
 
