@@ -13,8 +13,11 @@ Hello, This is Manaswi Guntupalli
 <h2>Tech Stack</h2>
 
 • Languages: C, C++, Python, Javascript
+
 • ML: TensorFlow, Pytorch, Numpy, Pandas
+
 • Tools: Git, GitHub, Tkinter
+
 • Interests: Data Structures and Algorithms, AI/ML, Full Stack Web Development
 
 <h2>Projects</h2>
@@ -25,7 +28,9 @@ Hello, This is Manaswi Guntupalli
 <h2>Learning Goals</h2>
 
 • Master Data Structures & Algorithms
+
 • Build strong, concept-driven AI/ML projects
+
 • Grow into full-stack development
 
 
