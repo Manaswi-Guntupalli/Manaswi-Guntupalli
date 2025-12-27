@@ -6,7 +6,7 @@
 <br>
 • Deeply interested in the fields of <b>Artificial Intelligence</b>, <b>Machine Learning</b> and <b>Full Stack Web Development</b>
 <br>
-• Passionate about coding, critical problem solving and building clean, efficient solutions.
+• Passionate about coding, critical problem solving and building clean, efficient solutions
 <br>
 • Constantly learning, building, and innovating at the intersection of technology and real-world impact
 
